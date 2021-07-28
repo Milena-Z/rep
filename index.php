@@ -1,5 +1,7 @@
+html:5
+
 <?php include_once 'config/init.php'; ?>
- 
+
 <?php
     $job = new Job;
 
